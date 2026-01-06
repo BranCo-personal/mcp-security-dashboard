@@ -112,13 +112,10 @@ mcp-security-dashboard/
 - [MCP Security Best Practices](https://modelcontextprotocol.io/docs/concepts/security)
 - [Invariant Labs MCP Research](https://invariantlabs.ai/)
 
-## 📝 License
-
-MIT License - feel free to use this for your portfolio!
 
 ## 👤 Author
 
-Built by [Your Name] as a cybersecurity portfolio project demonstrating AI security expertise.
+Built by Michael Branigan
 
 ---
 
