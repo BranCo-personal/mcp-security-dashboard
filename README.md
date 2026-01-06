@@ -112,6 +112,9 @@ mcp-security-dashboard/
 - [MCP Security Best Practices](https://modelcontextprotocol.io/docs/concepts/security)
 - [Invariant Labs MCP Research](https://invariantlabs.ai/)
 
+## License
+
+MIT
 
 ## 👤 Author
 
